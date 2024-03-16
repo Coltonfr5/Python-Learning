@@ -1,6 +1,5 @@
 # The 'hello' var is used to change the print function.
 
-
 hello = "this is a variable function text"
 
 number1 = 1
