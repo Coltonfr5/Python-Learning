@@ -1,5 +1,6 @@
 # The 'hello' var is used to change the print function.
 
+
 hello = "this is a variable function text"
 
 number1 = 1
@@ -37,3 +38,8 @@ for number1 in range((5 + 1)):
     print(changeable)
     if changeable == 5:
         print("you now equal 5")
+
+
+
+if 52 % 2 == 26:
+    print("insert random text")
